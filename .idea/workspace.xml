@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel" />
+        <device id="pixel_2" />
+        <target>android-27</target>
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b48fd81-3921-451a-affe-cd2a89dbdafd" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/../KeyStores/VKCLoyalty/Untitled" />
+    <option name="KEY_ALIAS" value="loyaltyapp" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1n31RS5BY30Zsk82rxCLAJzCwiY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="dcd62315" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-01-11T10:50:21.475Z" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/.." />
+    <property name="ExportApk.BuildType" value="release" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.Flavors" value="" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ScreenshotViewer.SavePath" value="$PROJECT_DIR$/.." />
+    <property name="android-custom-view/Users/krishnaraj/.gradle/caches/modules-2/files-2.1/devlight.io/arcprogressstackview/1.0.4/1c1004d62d9c974cfe560ae5b68de33b75a8f405/arcprogressstackview-1.0.4-sources.jar!/devlight/io/library/ArcProgressStackView.java_SELECTED" value="ArcProgressStackView" />
+    <property name="android.project.structure.last.selected" value="app" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="device.picker.selection" value="dcd62315" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-hdpi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="multi-representation-preview/Users/krishnaraj/.gradle/caches/modules-2/files-2.1/devlight.io/arcprogressstackview/1.0.4/1c1004d62d9c974cfe560ae5b68de33b75a8f405/arcprogressstackview-1.0.4-sources.jar!/devlight/io/library/ArcProgressStackView.java_selected" value="Custom views" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.2.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-hdpi" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.vkc.loyaltyapp.activity.shopimage.adapter" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/assets/fonts" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-hdpi" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="VKCLoyaltyFinal.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sampled (Java)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b48fd81-3921-451a-affe-cd2a89dbdafd" name="Default" comment="" />
+      <created>1557207861044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557207861044</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="297" y="23" key="CommitChangelistDialog2" timestamp="1615795726766">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="297" y="23" key="CommitChangelistDialog2/0.23.1280.723@0.23.1280.723" timestamp="1615795726766" />
+    <state width="500" height="438" key="DebuggerActiveHint" timestamp="1612428330648">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="500" height="438" key="DebuggerActiveHint/0.23.1280.723@0.23.1280.723" timestamp="1612428330648" />
+    <state x="494" y="288" width="292" height="264" key="Github.ShareDialog" timestamp="1615795870541">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="494" y="288" width="292" height="264" key="Github.ShareDialog/0.23.1280.723@0.23.1280.723" timestamp="1615795870541" />
+    <state width="1238" height="56" key="GridCell.Tab.0.bottom" timestamp="1613125802120">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="56" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1613125802120" />
+    <state width="1238" height="56" key="GridCell.Tab.0.center" timestamp="1613125802117">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="56" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1613125802117" />
+    <state width="1238" height="56" key="GridCell.Tab.0.left" timestamp="1613125802117">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="56" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1613125802117" />
+    <state width="1238" height="56" key="GridCell.Tab.0.right" timestamp="1613125802119">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="56" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1613125802119" />
+    <state width="1238" height="56" key="GridCell.Tab.1.bottom" timestamp="1613125823746">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="56" key="GridCell.Tab.1.bottom/0.23.1280.723@0.23.1280.723" timestamp="1613125823746" />
+    <state width="1238" height="56" key="GridCell.Tab.1.center" timestamp="1613125823746">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="56" key="GridCell.Tab.1.center/0.23.1280.723@0.23.1280.723" timestamp="1613125823746" />
+    <state width="1238" height="56" key="GridCell.Tab.1.left" timestamp="1613125823745">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="56" key="GridCell.Tab.1.left/0.23.1280.723@0.23.1280.723" timestamp="1613125823745" />
+    <state width="1238" height="56" key="GridCell.Tab.1.right" timestamp="1613125823746">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="56" key="GridCell.Tab.1.right/0.23.1280.723@0.23.1280.723" timestamp="1613125823746" />
+    <state x="149" y="23" key="SettingsEditor" timestamp="1611138533101">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="149" y="23" key="SettingsEditor/0.23.1280.723@0.23.1280.723" timestamp="1611138533101" />
+    <state x="240" y="124" key="Vcs.Push.Dialog.v2" timestamp="1615795760989">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="240" y="124" key="Vcs.Push.Dialog.v2/0.23.1280.723@0.23.1280.723" timestamp="1615795760989" />
+    <state x="194" y="120" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1612268036275">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="194" y="120" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1280.723@0.23.1280.723" timestamp="1612268036275" />
+    <state x="363" y="139" width="598" height="490" key="find.popup" timestamp="1612185930257">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="363" y="139" width="598" height="490" key="find.popup/0.23.1280.723@0.23.1280.723" timestamp="1612185930257" />
+    <state x="478" y="182" key="svn.repositoryBrowser" timestamp="1615795815868">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="478" y="182" key="svn.repositoryBrowser/0.23.1280.723@0.23.1280.723" timestamp="1615795815868" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/news/NewsListActivity.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/news/NewsListActivity.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/news/NewsListActivity.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/news/NewsListActivity.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/news/NewsListActivity.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/news/NewsListActivity.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/news/NewsActivity.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/news/NewsActivity.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/inbox/InboxActivity.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/inbox/InboxActivity.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/inbox/InboxActivity.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/inbox/InboxActivity.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/inbox/InboxActivity.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>371</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>372</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>373</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>551</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>562</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>579</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>594</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>602</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>603</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>601</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>641</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>442</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>443</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>445</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>391</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>394</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>397</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>400</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>403</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/shopimage/ShopImageActivity.java</url>
+          <line>199</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>404</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>531</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>543</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>201</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>206</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>207</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/profile/ProfileActivity.java</url>
+          <line>401</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/shopimage/ShopImageActivity.java</url>
+          <line>160</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/shopimage/ShopImageActivity.java</url>
+          <line>164</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/shopimage/ShopImageActivity.java</url>
+          <line>166</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/shopimage/ShopImageActivity.java</url>
+          <line>175</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/shopimage/ShopImageActivity.java</url>
+          <line>193</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/shopimage/ShopImageActivity.java</url>
+          <line>179</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/common/SignUpActivity.java</url>
+          <line>756</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/common/SignUpActivity.java</url>
+          <line>757</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/common/SignUpActivity.java</url>
+          <line>412</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/common/SignUpActivity.java</url>
+          <line>411</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/common/SignUpActivity.java</url>
+          <line>387</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/common/SignUpActivity.java</url>
+          <line>759</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/common/SignUpActivity.java</url>
+          <line>760</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/common/SignUpActivity.java</url>
+          <line>708</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/common/SignUpActivity.java</url>
+          <line>709</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/common/SignUpActivity.java</url>
+          <line>415</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/common/SignUpActivity.java</url>
+          <line>766</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/common/SignUpActivity.java</url>
+          <line>1380</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/common/SignUpActivity.java</url>
+          <line>717</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/common/SignUpActivity.java</url>
+          <line>720</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/dealers/DealersActivity.java</url>
+          <line>309</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/dealers/DealersActivity.java</url>
+          <line>304</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/dealers/DealersActivity.java</url>
+          <line>324</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/dealers/DealersActivity.java</url>
+          <line>325</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/dealers/DealersActivity.java</url>
+          <line>333</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/dealers/DealersActivity.java</url>
+          <line>326</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/HomeActivity.java</url>
+          <line>628</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/HomeActivity.java</url>
+          <line>629</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/HomeActivity.java</url>
+          <line>631</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/HomeActivity.java</url>
+          <line>637</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/HomeActivity.java</url>
+          <line>611</line>
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/HomeActivity.java</url>
+          <line>650</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/HomeActivity.java</url>
+          <line>553</line>
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/HomeActivity.java</url>
+          <line>554</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/HomeActivity.java</url>
+          <line>556</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/HomeActivity.java</url>
+          <line>565</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/HomeActivity.java</url>
+          <line>571</line>
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/HomeActivity.java</url>
+          <line>573</line>
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/HomeActivity.java</url>
+          <line>574</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/HomeActivity.java</url>
+          <line>464</line>
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/HomeActivity.java</url>
+          <line>451</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/HomeActivity.java</url>
+          <line>640</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/HomeActivity.java</url>
+          <line>646</line>
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/gifts/GiftsActivity.java</url>
+          <line>282</line>
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/gifts/GiftsActivity.java</url>
+          <line>283</line>
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/gifts/GiftsActivity.java</url>
+          <line>285</line>
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/gifts/GiftsActivity.java</url>
+          <line>307</line>
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/cart/adapter/CartListAdapter.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="309" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/cart/adapter/CartListAdapter.java</url>
+          <line>253</line>
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/cart/adapter/CartListAdapter.java</url>
+          <line>262</line>
+          <option name="timeStamp" value="318" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/cart/adapter/CartListAdapter.java</url>
+          <line>265</line>
+          <option name="timeStamp" value="321" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/cart/adapter/CartListAdapter.java</url>
+          <line>256</line>
+          <option name="timeStamp" value="322" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/cart/adapter/CartListAdapter.java</url>
+          <line>252</line>
+          <option name="timeStamp" value="325" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/cart/adapter/CartListAdapter.java</url>
+          <line>255</line>
+          <option name="timeStamp" value="326" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/cart/adapter/CartListAdapter.java</url>
+          <line>269</line>
+          <option name="timeStamp" value="327" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/cart/adapter/CartListAdapter.java</url>
+          <line>257</line>
+          <option name="timeStamp" value="330" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/cart/CartActivity.java</url>
+          <line>300</line>
+          <option name="timeStamp" value="338" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/cart/CartActivity.java</url>
+          <line>301</line>
+          <option name="timeStamp" value="339" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/cart/CartActivity.java</url>
+          <line>303</line>
+          <option name="timeStamp" value="340" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/cart/CartActivity.java</url>
+          <line>304</line>
+          <option name="timeStamp" value="341" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/cart/CartActivity.java</url>
+          <line>310</line>
+          <option name="timeStamp" value="342" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/cart/CartActivity.java</url>
+          <line>313</line>
+          <option name="timeStamp" value="343" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/redeem/RedeemHistoryActivity.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="344" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/redeem/RedeemHistoryActivity.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="345" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/redeem/RedeemHistoryActivity.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/redeem/RedeemHistoryActivity.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="347" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/redeem/RedeemHistoryActivity.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="348" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/vkc/loyaltyapp/activity/redeem/RedeemHistoryActivity.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="349" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
